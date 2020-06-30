@@ -6,11 +6,9 @@ metadata:
   description: CTO, Microsoft Regional Director, and MVP in Azure and AI
 remarks: |
   ## Bio
-  Hi, I’m Daron. I’m working for a US company called
-  [XOGO](http://www.xogo.io) fulfilling CTO duties in our remote office in
-  Istanbul.
+  Hi, I’m Daron. I'm helping organizations getting most out of their cloud investments. [Reach out](http://www.deveload.com) if interested! 
   
-  I blog on [http://daron.blog](http://daron.blog), [tweet](http://www.twitter.com/daronyondem), [take photos](https://www.instagram.com/daronyondem/) and love software.
+  I blog on [http://daron.blog](http://daron.blog), [tweet](http://www.twitter.com/daronyondem), [take photos](https://www.instagram.com/daronyondem/), lead [Teknolot](https://www.meetup.com/Teknolot/) and love software.
   
   I speak in international conferences and write books during holidays :)
   
@@ -47,11 +45,15 @@ tagline: Serverless / IoT / AI
 image:
   alt: "Daron Yondem"
   src: media/profiles/daron-yondem.jpg
-twitter: https://twitter.com/daronyondem
-facebook: https://facebook.com/daronyoendem
-instagram: https://instagram.com/daronyondem
-linkedin: https://tr.linkedin.com/in/daronyondem
-github: https://github.com/daronyondem
+connect:
+  - title: Twitter
+    url: https://twitter.com/daronyondem
+  - title: Instagram
+    url: https://instagram.com/daronyondem
+  - title: LinkedIn
+    url: https://tr.linkedin.com/in/daronyondem
+  - title: GitHub
+    url: https://github.com/daronyondem
 location:
   display: İstanbul, Turkey
   lat: 41.013
